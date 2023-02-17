@@ -32,9 +32,10 @@ Data Science/ML is vast and growing at an exponential rate;
 
 This github is my attempt to figure some of it and share my knowledge
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=algos)](https://github.com/divm11/algos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=pycaret)](https://github.com/divm11/pycaret)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=face-rater)](https://github.com/DivM11/face-rater)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=ml_solver)](https://github.com/DivM11/ml_solver)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=walmart-m5-challenge)](https://github.com/DivM11/walmart-m5-challenge)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divm11&repo=buynet)](https://github.com/DivM11/buynet)
 
 
 ![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=divm11&show_icons=true&theme=radical)
